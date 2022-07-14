@@ -1,0 +1,21 @@
+.navbar-brad img {
+    width: 100px;
+    margin-right: 40px;
+}
+
+.navbar-light {
+    background-color: #e3f2fd;
+}
+
+.navbar-nav li {
+    padding: 5px;
+    font-size: 1.2em;
+}
+
+.mt-4 {
+  margin-top: ($spacer * 1.5) !important;
+}
+
+.mr-3 {
+    margin-right: ($spacer * 1) !important;
+}
